@@ -23,7 +23,7 @@ int main()
             t = 3;    
         }
         x += 1;
-        printf("\nПри x = %f \nt = %f\n",x-1, t);
+        printf("\nIf x = %f \nt = %f\n",x-1, t);
     }
     return 0;
 }
