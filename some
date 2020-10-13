@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+
+const char *str = "asdfd mdf dgdgdg gdf";
+const char *c[];
+int len_word;
+
+main() 
+{
+	for (int i; i != len_word; i++)
+	{
+
+	}
+}
